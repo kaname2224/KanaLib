@@ -1,0 +1,6 @@
+name: KanaLib
+version: '${project.version}'
+main: fr.kaname.kanalib.KanaLib
+api-version: 1.19
+authors: [ Kaname ]
+description: Kaname Library for better plugin developpement
